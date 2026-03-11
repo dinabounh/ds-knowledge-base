@@ -14,4 +14,4 @@ This repository acts as my "Central Brain 🧠" focusing on theory and logic. Pr
 - **Envirmonments**: VS Code, JupyterLab, RStudio
 
 💡
-> **Professional Portfolio:** For projects, finished dashboards, visit my [Data Science Portfolio Repository](https://github.com).
+> **Portfolio:** For projects, finished dashboards, visit my [Professional Portfolio Repository](https://github.com).
