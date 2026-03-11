@@ -1,4 +1,4 @@
-## 📑 Repository Formats
+## 📑 Repository Format
 This repository acts as my "Central Brain 🧠" focusing on theory and logic. Project implementations are linked to my external portfolio. 
 
 
