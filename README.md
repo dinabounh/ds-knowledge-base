@@ -21,4 +21,4 @@ This repository acts as my "Central Brain 🧠" focusing on theory and logic. Pr
 - **R Markdown `.rmd` files**: These file notes include examples of Monte-Carlo Simulation and Discrete Event Simulation examples through simmer library.
 
 💡
-> **Portfolio:** For projects and finished dashboards, visit my [Professional Portfolio Repository](https://github.com).
+> For projects and finished dashboards, visit my [Professional Portfolio Repository](https://github.com).
